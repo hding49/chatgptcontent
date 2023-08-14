@@ -87,7 +87,7 @@ const ExpandableTableComponent: React.FC<ExpandableTableComponentProps> = ({
                     setExpandedRow(expandedRow === rowIndex ? null : rowIndex)
                   }
                 >
-                  {expandedRow === rowIndex ? 'Collapse' : 'Expand'}
+                  {expandedRow === rowIndex ? <i className="bi bi-arrow-up-circle"></i> : <i className="bi bi-arrow-down-circle"></i>}
                 </Button>
               </td>
             </tr>
