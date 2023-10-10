@@ -79,3 +79,12 @@ const ParentComponent: React.FC = () => {
 export default ParentComponent;
 
 
+const dayjs = require('dayjs');
+
+const date = dayjs(); // 创建一个 Day.js 时间对象（当前时间）
+const formattedDate = date.format('YYYY-MM-DD HH:mm:ss'); // 将时间对象格式化为字符串
+
+console.log(formattedDate); // 输出格式化后的时间字符串
+
+
+
