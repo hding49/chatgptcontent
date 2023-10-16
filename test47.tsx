@@ -24,3 +24,17 @@ const getToken = async () => {
 };
 
 getToken();
+
+
+// Axios 拦截器，用于将 Session 中的 Token 放入请求头
+apiAxios.interceptors.request.use(config => {
+    // 从 Session 中获取 Token
+    const token = req.session.token; // 假设你的 Token 存储在 req.session.token 中
+  
+    // 将 Token 放入请求头
+    config.headers.Authorization = `Bearer ${token}`;
+  
+    return config;
+  }, error => {
+    return Promise.reject(error);
+  });
