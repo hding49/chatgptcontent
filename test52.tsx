@@ -53,3 +53,36 @@ app.listen(port, () => {
   gtag('config', 'YOUR_GA_TRACKING_ID');
 ]]>
 </script>
+
+
+
+const axios = require('axios');
+
+// Google Analytics Measurement Protocol endpoint
+const GA_ENDPOINT = 'https://www.google-analytics.com/collect';
+
+// Google Analytics 追踪 ID
+const GA_TRACKING_ID = 'YOUR_GA_TRACKING_ID';
+
+// 用户访问处理逻辑
+function trackUserVisit(clientId) {
+  // 构建 Measurement Protocol 请求（空请求，只包含必要的字段）
+  const gaData = {
+    v: '1', // Protocol version
+    tid: GA_TRACKING_ID, // Google Analytics 追踪 ID
+    cid: clientId, // 客户端 ID，可以是用户的唯一标识符
+  };
+
+  // 发送 Measurement Protocol 请求
+  axios.post(GA_ENDPOINT, null, { params: gaData })
+    .then(response => {
+      console.log('Empty tracking data sent to Google Analytics successfully.');
+    })
+    .catch(error => {
+      console.error('Error sending tracking data to Google Analytics:', error);
+    });
+}
+
+// 调用用户访问处理逻辑（示例中的客户端ID为 '123'）
+trackUserVisit('123');
+
