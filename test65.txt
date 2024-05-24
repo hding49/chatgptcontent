@@ -31,3 +31,8 @@ Closing & Networking (5 mins):
 Thank everyone for participating and express appreciation to mentors and mentees.
 Encourage exchanging contact information or connecting on professional platforms.
 In this condensed plan, the focus is on rapid interaction, brief discussions, and quick activities that allow mentors and mentees to engage effectively within the limited time available. Adjust the timings of each activity as needed to fit within the 42-minute window.
+
+
+
+"The maintenance window for the software is scheduled every Sunday from 2 AM to 4 AM. 
+During maintenance, follow the documented procedures to back up data, apply updates, and verify system functionality."
