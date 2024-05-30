@@ -1,3 +1,13 @@
+import json
+import yaml
+from fastapi import FastAPI
+from fastapi.openapi.utils import get_openapi
+from pydantic import BaseModel
+from fastapi.routing import APIRoute
+import os
+
+
+
 def openapi_to_swagger(openapi_schema):
     """
     将OpenAPI 3.0文档转换为Swagger 2.0文档的简单转换器。
