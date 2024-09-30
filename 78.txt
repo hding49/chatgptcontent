@@ -1,0 +1,76 @@
+1.How would you evaluate: Drive to impact?
+
+In the past year, I have consistently demonstrated my drive to impact by setting ambitious goals, navigating uncertainty, a focus on delivering client value and delivering high-value solutions across multiple projects.
+
+Set ambitious aspirations to drive growth: In the Ivan project, I aimed high by optimizing the UI and database to enhance user experience. This initiative not only improved internal user efficiency but also directly contributed to the overall productivity of our department, aligning with our strategic goals for growth.
+
+Articulate a clear path through uncertainty: During the ACR project, I faced numerous challenges, including tight deadlines and unfamiliar technologies. I took the initiative to outline a clear development plan and communicated effectively with team members, guiding us through uncertainties and ensuring that we met our project milestones.
+
+Be bold to create client value and win: In the Profee project, I boldly integrated single sign-on (SSO) with Azure AD, a technology I was not previously familiar with. This decision significantly enhanced security and streamlined the user experience, ultimately adding substantial value for our internal users and accelerating project delivery.
+
+Act with speed and simplicity: I prioritized efficiency by simplifying complex challenges across all projects. For instance, in the ACR project, I broke down the production deployment process into manageable tasks, which allowed the team to act swiftly without compromising quality.
+
+Focus resources on what matters most: I consistently directed my efforts toward high-impact tasks. In ACR, I led discussions on system design and organized essential documentation, ensuring that our resources were effectively allocated to meet critical deadlines and project objectives.
+
+Overall, my commitment to setting ambitious goals, embracing challenges, and delivering client value has driven significant impact in my role and within the organization.
+
+2.How would you evaluate: Adapt Quickly, Always Learn?
+
+This year, I have embraced adaptability and a commitment to continuous learning, which have been crucial to my success in the internal audit department.
+
+Anticipate and respond to client needs: In the Ivan project, I proactively gathered feedback from internal users to understand their challenges and needs. By making informed adjustments based on their input, I enhanced the product's usability, ensuring that it effectively met user expectations and improved overall satisfaction.
+
+Take intelligent risks to grow our business: During the Profee project, I took the initiative to integrate single sign-on (SSO) with Azure AD, which involved stepping out of my comfort zone. This intelligent risk not only strengthened security but also streamlined user access, demonstrating my willingness to innovate for the benefit of the organization.
+
+Innovate with curiosity and purpose: I approached my work with curiosity, particularly in the ACR project, where I explored various methods to improve system design and API development. This innovative mindset enabled me to propose solutions that enhanced our overall architecture, ultimately benefiting the project's outcomes.
+
+Experiment with a passion for learning: This year, I dedicated time to self-studying GraphQL through online courses, enhancing my technical skill set. I also coached colleagues on tools like OpenShift, Helios, Azure AD single sign-on, and Apigee Gateway, sharing knowledge and fostering a culture of continuous learning within the team.
+
+Demonstrate flexibility: Flexibility was essential during the ACR project when we encountered shifting priorities and tight deadlines. I adapted quickly to these changes, reallocating resources and adjusting our strategies to ensure that we remained on track to meet our goals.
+
+In summary, my proactive approach to anticipating needs, willingness to take risks, commitment to learning, and ability to remain flexible have allowed me to adapt effectively and contribute positively to the organization.
+
+
+3.How would you evaluate: Unlock the potential of our people?
+
+In the past year, I have focused on unlocking the potential of our team members by fostering an inclusive and empowering environment that encourages growth and accountability.
+
+Develop future-ready leaders with global mindsets: I actively participated in the company’s mentorship program, where I had the opportunity to guide and support new colleagues. By sharing insights and best practices, I aimed to help them develop their leadership skills and understand the broader organizational context, fostering a global mindset.
+
+Inspire with humility, empathy, and inclusivity: In my coaching efforts, particularly when assisting colleagues with tools like OpenShift and Azure AD single sign-on, I approached each interaction with humility and empathy. I listened to their concerns and challenges, ensuring that they felt supported and valued in their learning journeys.
+
+Empower and coach to help others be their best: I took the initiative to coach my colleagues on various technologies, including Helios and Apigee Gateway. By providing tailored guidance and encouraging them to explore solutions independently, I empowered them to build their confidence and improve their skills, ultimately helping them achieve their best performance.
+
+Cultivate well-being and belonging: I prioritize creating a supportive and inclusive atmosphere in my team. Through coffee chats and informal discussions, I have built relationships with new colleagues, helping them feel welcomed and fostering a sense of belonging within the organization.
+
+Hold ourselves and others accountable: Throughout my projects, I emphasized the importance of accountability by setting clear expectations and following through on commitments. For example, during the ACR project, I led discussions to ensure that all team members understood their roles and responsibilities, fostering a culture of accountability that contributed to our success.
+
+Overall, my efforts to develop leaders, inspire inclusivity, empower my colleagues, cultivate well-being, and promote accountability have helped unlock the potential of our people and strengthen our team's performance.
+
+
+4. How would you evaluate: Speak up for the good of RBC?
+
+In my role as a software engineer in the internal audit department, I have actively embraced the principle of speaking up for the good of RBC by fostering open communication and collaboration within my team and the wider organization.
+
+Debate with passion and act as one team: I have engaged in discussions during team meetings and project planning sessions with a passionate commitment to finding the best solutions. In the ACR project, I encouraged open debates about system design and implementation strategies, emphasizing the importance of teamwork to achieve our common goals.
+
+Seek and include diverse perspectives: Recognizing the value of diverse viewpoints, I made it a priority to involve team members from various backgrounds in project discussions. This inclusivity enriched our decision-making process and led to more innovative solutions, as seen in the collaborative efforts during the Profee project.
+
+Speak your mind: I am not afraid to express my thoughts and ideas, especially when it comes to improving processes or addressing challenges. During the Ivan project, I proactively shared feedback about user experience, which led to significant UI enhancements that benefited internal users.
+
+Listen to others: I believe that effective communication involves not just speaking but also listening. I have made it a point to actively listen to my colleagues' insights and concerns, especially during coaching sessions on tools like OpenShift and Helios. This approach has fostered a supportive environment where team members feel valued and understood.
+
+Have the courage to challenge the status quo: I demonstrated this courage in the Profee project when I proposed integrating SSO with Azure AD, despite it being a new technology for our team. This bold move not only enhanced security but also streamlined user access, ultimately benefiting our internal users and showcasing the potential for innovation within our processes.
+
+In summary, my commitment to open communication, inclusivity, and courageous advocacy for improvement has allowed me to effectively speak up for the good of RBC, contributing to our team's success and the organization's overall mission.
+
+
+5. Do you have any additional comments related to your Overall performance that you wish to share? 
+
+Overall, I am proud of my contributions this year and the impact I have made within the internal audit department. My dedication to continuous learning and collaboration has not only enhanced my technical skills but has also fostered a culture of support and knowledge sharing among my colleagues.
+
+I have actively sought opportunities to take on leadership roles, particularly in the ACR project, where I navigated challenges with confidence and ensured the project was delivered successfully. Additionally, my commitment to coaching and mentoring has allowed me to empower others, helping them grow in their roles and contribute effectively to our team’s objectives.
+
+I am particularly proud of my ability to adapt quickly to new technologies and processes, as demonstrated by my self-study of GraphQL and my willingness to embrace and implement new solutions such as single sign-on with Azure AD. These efforts not only improved our projects but also aligned with the organization’s goals of innovation and efficiency.
+
+Looking ahead, I remain committed to driving impact through collaboration and continuous improvement. I welcome any feedback or suggestions for further development, as I believe there is always room to grow and enhance my contributions to RBC.
