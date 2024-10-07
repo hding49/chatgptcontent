@@ -1,0 +1,17 @@
+1. Summary of Project Contributions and Impact:
+Ivan Project: I took the lead in optimizing an already deployed product, focusing primarily on enhancing the UI and database. These improvements significantly enhanced the user experience, enabling internal users to operate more efficiently while also reducing data capacity limitations. I used JavaScript and React to implement these optimizations, ensuring the system runs smoothly and meets user needs.
+
+Profee Project: I joined another team to provide support, where I primarily worked on UI development and integrating single sign-on (SSO) with Azure AD. By utilizing React and JavaScript, I contributed to shortening the project delivery timeline and facilitated collaboration across multiple departments, ensuring the project was delivered on time.
+
+ACR Project: This was my primary project, where I took on multiple responsibilities, including developing the UI, API, SSO, production deployment, system design, and participating in solution discussions. In several stages of the project, I took on a leadership role, managing challenges such as tight deadlines and unfamiliar technologies. It was also my first time handling production deployment, and I ensured a smooth project start by leading the initial processes, coordinating with team members, and organizing design documentation to avoid any delays in the deployment timeline.
+
+2. Technical Growth and Self-Development:
+This year, I also dedicated time to self-study GraphQL through online courses, which has expanded my technical skill set. This learning not only prepared me for future technical challenges but also helped me contribute more effectively to our projects.
+3. Coaching and Knowledge Sharing:
+In addition to my project work, I’ve been actively coaching my colleagues on OpenShift, Helios, Azure AD single sign-on, and Apigee Gateway. My aim has been to promote knowledge sharing within the team, helping others enhance their technical skills and fostering a culture of collaboration.
+4. Leadership and Collaboration:
+During the ACR project, I took on a leadership role in several stages of the project. I managed the initial processes, coordinated meetings with colleagues, and organized design documentation, ensuring that the project started smoothly and stayed on schedule. I made sure the team worked effectively together, which contributed to the overall success of the project.
+5. Engagement and Networking:
+I’ve also actively participated in the company’s mentorship program and taken the initiative to network with new colleagues through coffee chats. This has helped me build relationships across departments and foster a supportive work environment.
+6. Conclusion and Future Growth:
+Moving forward, I’m excited to continue growing in my role. I welcome any feedback on areas where I can further improve, whether it’s expanding my leadership capabilities or learning new technologies. I am fully committed to contributing to the success of our team and the broader organization.
