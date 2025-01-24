@@ -1,0 +1,21 @@
+你从没有在这个项目上写过代码 你也没有看过需求文档 你怎么有资格说这不需要花一个月的时间来完成呢
+
+"You've never written any code for this project, and you haven’t even looked at the requirements document. How can you say it doesn’t take a month to complete?"
+
+
+我知道你很着急 但是把压力施加到我身上是不合理的
+
+"I understand you're in a hurry, but it’s not fair to put all the pressure on me."
+
+我觉得我有资格说这需要一个月的时间
+
+"I believe I’m qualified to say that this will take a month to complete."
+
+I have talked with Raptor team and their coop student did that. I also had talked with him about whole process of soling accessibility. They took one and half month working on it with 100% daily time.
+
+So based on our code compleity, one month is a reasonable time. And first week I will work on guideline 0 and two weeks on guideline 1. Leave one week as buffer time in case anything delayed. 
+
+
+guideline 0 -- Add unique IDs
+
+guideline 1 -- meet WCAG 2.1 AA. use a11test tool and fix all issues. Be careful on pop-up window, dropdown, multiselect and calendar.
