@@ -1,0 +1,2 @@
+grep -v "-----" certification.cer | tr -d '\n' > cert_base64.txt
+grep -v "-----" certification.key | tr -d '\n' > key_base64.txt
